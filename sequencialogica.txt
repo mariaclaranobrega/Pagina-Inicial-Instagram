@@ -1,0 +1,18 @@
+Classe Instagram
+Dentro da Instagram: instagram-phone (imagem do aparelho)
+Dentro da Instagram: instagram-login
+
+Dentro da instagram-login: group 
+Dentro da group: imagem logo instagram com uma classe própria chamada instagram-logo
+Dentro da group: classe profile-photo para foto do perfil
+Dentro da group: dois links a, cada um com uma classe login e logout
+
+Outro group: mesma configuração do de cima mas com outros divs
+Apenas textos
+not-account e notaccount
+
+Get-the-app:
+Dentro dele: p com classe get-app
+
+Download:
+Dentro: a com app-store e google-play
